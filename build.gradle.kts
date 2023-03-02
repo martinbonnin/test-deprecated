@@ -1,7 +1,7 @@
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-    id("org.jetbrains.kotlin.jvm").version("1.8.20-RC-237")
+    id("org.jetbrains.kotlin.jvm").version("1.8.20-RC-243")
 }
 
 repositories {
